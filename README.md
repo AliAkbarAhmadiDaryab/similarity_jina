@@ -18,8 +18,8 @@ Activate the local environemt, navigate to project directory and run the followi
 ```
 jina flow --uses flow.yml
 ```
-<br>
 As a result of the above command you should see the following. 
+<br>
 ──── 🎉 Flow is ready to serve! ────
 ╭────────────── 🔗 Endpoint ───────────────╮
 │  ⛓     Protocol                    GRPC  │
