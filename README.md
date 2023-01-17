@@ -9,7 +9,9 @@ Test
 
 ## Run the endpoint locally.
 To run the endpoint locally make sure you install the jina. Following link helps you to install it.
+<br>
 https://docs.jina.ai/get-started/install/
+<br>
 For example to install in local env.
 ```
 pip install -U jina
@@ -36,6 +38,7 @@ To reference see here: https://docs.jina.ai/get-started/create-app/
 Run the file client.py file. To run the file make sure you have install the jina and your server is running.
 You only need to change the text, and the adjacency value.
 It is possible to have more a request with multiple text. Look here: https://docarray.jina.ai/fundamentals/documentarray/
+<br>
 The adjacency defines the total number of top most similar documents. For example here it returns the 5 most similar documents.
 ```
 from jina import Client, DocumentArray, Document
