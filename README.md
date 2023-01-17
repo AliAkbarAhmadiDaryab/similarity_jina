@@ -18,6 +18,7 @@ Activate the local environemt, navigate to project directory and run the followi
 ```
 jina flow --uses flow.yml
 ```
+<br>
 As a result of the above command you should see the following. 
 ──── 🎉 Flow is ready to serve! ────
 ╭────────────── 🔗 Endpoint ───────────────╮
@@ -26,6 +27,7 @@ As a result of the above command you should see the following.
 │  🔒     Private    192.168.200.56:54321  │
 │  🌍      Public    81.223.121.124:54321  │
 ╰──────────────────────────────────────────╯
+<br>
 To reference see here: https://docs.jina.ai/get-started/create-app/
 
 ## Make request to local endpoint.
